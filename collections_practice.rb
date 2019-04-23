@@ -40,6 +40,7 @@ def remove_non_strings(array)
   return word
 end
 
+<<<<<<< HEAD
 def count_elements(array)
   hash = {}
   answer = []
@@ -99,6 +100,12 @@ def organize_schools(array)
 end
 
 
+=======
+def count_elements(hash)
+  
+end
+
+>>>>>>> 8b51152320727d51e1dbb919f03c9257e71a0005
 
 
 
